@@ -1,11 +1,6 @@
-.header__flex_column {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    margin-left: 64px;
-  }
-  
-  .header__flex_row {
-    display: flex;
-    height: 100%;
-  }
+.flex_column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 64px;
+}
